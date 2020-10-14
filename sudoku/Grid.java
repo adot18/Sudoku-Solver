@@ -32,7 +32,6 @@ public class Grid
 	
 	
 	//
-	// DON'T CHANGE THIS.
 	//
 	public String toString()
 	{
@@ -54,7 +53,6 @@ public class Grid
 
 
 	//
-	// DON'T CHANGE THIS.
 	// Copy ctor. Duplicates its source. Youâ€™ll call this 9 times in next9Grids.
 	//
 	Grid(Grid src)
@@ -215,7 +213,6 @@ public class Grid
 
 	
 	//
-	// COMPLETE THIS
 	//
 	// Returns true if every cell member of values[][] is a digit from 1-9.
 	//
