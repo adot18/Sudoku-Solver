@@ -9,7 +9,6 @@ public class Grid
 	
 
 	//
-	// DON'T CHANGE THIS.
 	//
 	// Constructs a Grid instance from a string[] as provided by TestGridSupplier.
 	// See TestGridSupplier for examples of input.
@@ -68,7 +67,6 @@ public class Grid
 	
 	
 	//
-	// COMPLETE THIS
 	//
 	//
 	// Finds an empty member of values[][]. Returns an array list of 9 grids that look like the current grid,
@@ -131,7 +129,6 @@ public class Grid
 	
 	
 	//
-	// COMPLETE THIS
 	//
 	// Returns true if this grid is legal. A grid is legal if no row, column, or
 	// 3x3 block contains a repeated 1, 2, 3, 4, 5, 6, 7, 8, or 9.
@@ -241,7 +238,6 @@ public class Grid
 	
 
 	//
-	// COMPLETE THIS
 	//
 	// Returns true if x is a Grid and, for every (i,j), 
 	// x.values[i][j] == this.values[i][j].
