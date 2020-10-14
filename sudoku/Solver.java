@@ -53,7 +53,6 @@ public class Solver
 	}
 	
 	//
-	// COMPLETE THIS
 	//
 	// Returns Evaluation.ABANDON if the grid is illegal. 
 	// Returns ACCEPT if the grid is legal and complete.
